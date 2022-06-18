@@ -1,8 +1,11 @@
 <resources>
     <string name="app_name">Disco Mania</string>
     <string name="messageWithLink"><a href="tel:+5511999999999">+55 (11) 99999-9999</a></string>
-    <string name="discogsToken">{{discogAuthToken}}</string>
+    <string name="discogsToken">${{discogsAuthToken}}</string>
     <string name="pesquisa">pesquisar</string>
+    <string name="large_text" />
+    <string name="title_activity_product_details">ProductDetailsActivity</string>
+    <string name="action_settings">Settings</string>
     <string name="descricaoTimMaia">Tim Maia é o quarto álbum de estúdio do cantor e compositor brasileiro Tim Maia, lançado pela gravadora Phonogram, através do selo Polydor, em julho de 1973. As gravações foram realizadas nos estúdios CBD, no Rio de Janeiro, entre março e julho do mesmo ano. O álbum é considerado um dos grandes momentos da carreira de Tim Maia e traz dois grandes sucessos: \"Réu Confesso\", do próprio cantor carioca, e \"Gostava Tanto de Você\", de Edson Trindade.</string>
     <string name="descricaoSeuJorge">Em novembro é comemorado o Dia da Consciência Negra e - por isso mesmo - Seu Jorge escolheu o mês para lançar o DVD duplo “Músicas para Churrasco”, gravado em 20 de novembro de 2011 na Quinta da Boa Vista, no Rio de Janeiro.  Exemplo legítimo da história do negro no Brasil, o artista escolheu convidados do mesmo peso e envolvido com a causa, como Alexandre Pires, Zeca Pagodinho, Caetano Veloso, Racionais MC’s, Sandra de Sá, Bonde do Passinho, o grupo Trio Preto + 1 e sua filha Flor de Maria, para uma grande festa aberta ao público.</string>
     <string name="descricaoBezerra">Em novembro é comemorado o Dia da Consciência Negra e - por isso mesmo - Seu Jorge escolheu o mês para lançar o DVD duplo “Músicas para Churrasco”, gravado em 20 de novembro de 2011 na Quinta da Boa Vista, no Rio de Janeiro.  Exemplo legítimo da história do negro no Brasil, o artista escolheu convidados do mesmo peso e envolvido com a causa, como Alexandre Pires, Zeca Pagodinho, Caetano Veloso, Racionais MC’s, Sandra de Sá, Bonde do Passinho, o grupo Trio Preto + 1 e sua filha Flor de Maria, para uma grande festa aberta ao público.</string>
